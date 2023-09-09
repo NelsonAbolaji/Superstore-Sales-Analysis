@@ -1,4 +1,5 @@
 # Superstore-Sales-Analysis
+![Department Store Stock Photo Credit: Getty Images/iStockphoto]([image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdepartment-store&psig=AOvVaw1CpMs-_8ZJYBoF8-nxssI0&ust=1694318762604000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjl26zinYEDFQAAAAAdAAAAABAE))
 
 ## Introduction
 Superstore, a fictional retail company which has been in operation for 4 years is looking to improve their sales and overall performance. The store's data experts have been tasked with analyzing the company's data which has been generated over the years of operation to present actionable insights to the stakeholders.
