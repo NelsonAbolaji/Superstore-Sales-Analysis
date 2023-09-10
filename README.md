@@ -6,7 +6,7 @@ Superstore, a fictional retail company which has been in operation for 4 years i
 
 I, the junior data analyst was tasked by the data team to present to them a general report of the company's performance and recommendations that will be of importance to the stakeholders or that can be further investigated before the presentation to the stakeholders.
 
-_This report is a documentation of the highlight of my analysis and presentation to be delivered to the data team._
+This report is a documentation of the highlight of my analysis and presentation to be delivered to the data team.
 
 ## Business Task
 The team is interested in an analysis of the store's historical data so they can better understand how the store and their products have performed over the years and what operations they need to improve. They also expect insightful recommendations from the data analyst. All of this will serve as an introduction to the presentation to the stakeholders.
