@@ -1,5 +1,5 @@
-# Superstore-Sales-Analysis
-![Department Store Stock Photo Credit: Getty Images/iStockphoto]([image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdepartment-store&psig=AOvVaw1CpMs-_8ZJYBoF8-nxssI0&ust=1694318762604000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjl26zinYEDFQAAAAAdAAAAABAE))
+# Superstore Sales Analysis
+![Department Store Stock Photo Credit: Getty Images/iStockphoto](3.jpg)
 
 ## Introduction
 Superstore, a fictional retail company which has been in operation for 4 years is looking to improve their sales and overall performance. The store's data experts have been tasked with analyzing the company's data which has been generated over the years of operation to present actionable insights to the stakeholders.
@@ -9,7 +9,7 @@ I, the junior data analyst was tasked by the data team to present to them a gene
 _This report is a documentation of the highlight of my analysis and presentation to be delivered to the data team._
 
 ## Business Task
-The team is interested in an analysis of the store's historical data so they can better understand how the store and their products have performed over the years. They also expect insightful recommendations from the data analyst. All of this aid in the preparation of the presentation to the stakeholders which will help them make the necessary decisions that wil help grow the store's customer base and revenue generation.
+The team is interested in an analysis of the store's historical data so they can better understand how the store and their products have performed over the years and what operations they need to improve. They also expect insightful recommendations from the data analyst. All of this will serve as an introduction to the presentation to the stakeholders.
 
 ## Data Sourcing 
 The dataset this personal project was carried out on is a CSV file which was gotten from Kaggle and can be accessed here: [Superstore dataset ](https://www.kaggle.com/blurredmachine/superstore-time-series-dataset)
