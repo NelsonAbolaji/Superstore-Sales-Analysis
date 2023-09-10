@@ -23,12 +23,12 @@ The dataset this personal project was carried out on is a CSV file which was got
 
 ## Analysis Process
 The documentation of the analysis process can be found here
-1. [Data importation and validation](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/data_importation_and_validation.md)
+1. [Data importation and Validation](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/data_importation_and_validation.md)
 2. [Answers to Business Questions](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/Superstore_order_queries.md)
 
 ## Observations
 1) 60 percent of our orders were sent for delivery later than the stipulated date.
-2) We received the most orders and made the most sales from the West and the least orders and sales from the South.
+2) We received the most orders and made the most sales from the West and the least orders and sales from the South of the United States.
 3) We recorded losses from 10 states after our losses were deducted from profits.
 4) There are orders we recorded a loss from the sale instead of a profit. 
 5) We have lost 36 percent of our profit to sales loss deduction since we began operation. Each year, we lose 35.63 percent of the company's sales profit to losses incurred from sales.
