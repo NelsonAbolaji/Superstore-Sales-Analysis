@@ -26,6 +26,13 @@ The documentation of the data preparation process, data analysis and results got
 - [Data Importation and Validation](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/data_importation_and_validation.md)
 - [Answers to Business Questions](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/Superstore_order_queries.md)
 
+## Visualization
+A visualization that allows stakeholders and involved departments assess the company's performance and track orders shipment was created with Tableau and can be found here: [Superstore Sales and Profit Comparison Dashboard](https://public.tableau.com/app/profile/osingunwa.nelson.abolaji/viz/SuperstoreSalesDashboard_16956083762320/SalesandProfitComparisonDashboard#1)
+
+## Visualization Process
+The documentation of the visualization project can be found here: [Superstore Comparison Dashboard Project](https://github.com/NelsonAbolaji/Superstore-Comparison-Dashboard/)
+
+
 ## Observations
 1) Consumers make the most orders and generate the most sales for the store.
 2) Phones are our most profitable sub category.
