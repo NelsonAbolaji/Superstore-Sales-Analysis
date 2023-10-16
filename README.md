@@ -27,11 +27,20 @@ The documentation of the data preparation process, data analysis and results got
 - [Answers to Business Questions](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/Superstore_order_queries.md)
 
 ## Visualization
-A visualization that allows stakeholders and involved departments assess the company's performance and track orders shipment was created with Tableau and can be found here: [Superstore Sales and Profit Comparison Dashboard](https://public.tableau.com/app/profile/osingunwa.nelson.abolaji/viz/SuperstoreSalesDashboard_16956083762320/SalesandProfitComparisonDashboard#1)
+A visualization that allows stakeholders and involved departments assess the company's performance and track orders shipment was created with Tableau and can be found here: [Superstore Sales and Profit Comparison Dashboard](https://public.tableau.com/app/profile/osingunwa.nelson.abolaji/viz/SuperstoreSalesDashboard_16956083762320/SalesandProfitComparisonDashboard#1). 
+
+
+A picture of it can be seen below:
+### Dashboard
+![A dashboard comparing Superstore's Sales and Profit](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/Superstore%20Comparison%20Dashboard.png)
+
+### Table
+![A table that contains Superstore Order History](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/Order%20History.png)
+
+
 
 ## Visualization Process
-The documentation of the visualization project can be found here: [Superstore Comparison Dashboard Project](https://github.com/NelsonAbolaji/Superstore-Comparison-Dashboard/)
-
+The documentation of the visualization project can be found here: [Superstore Comparison Dashboard Project](https://github.com/NelsonAbolaji/Superstore-Comparison-Dashboard)
 
 ## Observations
 1) Consumers make the most orders and generate the most sales for the store.
