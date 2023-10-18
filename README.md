@@ -51,7 +51,7 @@ The documentation of the visualization project can be found here: [Superstore Co
 6) 60 percent of our orders were sent for delivery later than the stipulated date.
 7) We received the most orders and made the most sales from the West and the least orders and sales from the South of the United States.
 8) We recorded losses from some transactions instead of profits.
-9) We recorded losses from 10 states after the sum of our individual sale losses were deducted from profits.
+9) We recorded losses from 10 states after deducting the sum of individual sale losses from profits.
 10) There is a 35.49% difference between the profit percentages of the Furniture and Office Supplies category even though their sales percent is only different by 0.92%. 
 11) Each year, we lose an average of 35.63 percent of the company's sales profit to losses incurred from  sales. We have lost 36 percent of our total profit generated since we began operation to losses incurred from sales. 
 12) Sales growth dropped after the first year of operation but rose sharply in the third year and eventually dropped by a percentage in the fourth year while profit growth has improved by a percentage each year. 
