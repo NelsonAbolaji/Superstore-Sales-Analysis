@@ -32,8 +32,7 @@ A visualization that allows stakeholders and involved departments assess the com
 
 A picture of it can be seen below:
 ### Dashboard
-![A dashboard comparing Superstore's Sales and Profit](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/Superstore%20Comparison%20Dashboard.png)
-
+![A dashboard comparing Superstore's Sales and Profit](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/Superstore_Comparison_Dashboard.png)
 ### Table
 ![A table that contains Superstore Order History](https://github.com/NelsonAbolaji/Superstore-Sales-Analysis/blob/main/Order%20History.png)
 
