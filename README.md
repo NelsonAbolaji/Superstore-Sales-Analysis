@@ -63,4 +63,4 @@ The documentation of the visualization project can be found here: [Superstore Co
 
 
 ## Conclusion
-In the four years Superstore has been in operation, we have received 8000 orders, generated sales of $1,838,588 and made a profit of $225,074, which is only 12.24 percent of our sales earning. Looking into the recommedations will aid the increase of the store's earnings and will also help improve customer satisfaction.
+In the four years Superstore has been in operation, we have received 8000 orders, generated sales of $1,838,588 and made a profit of $225,074, which is only 12.24 percent of our sales earning. Looking into the recommedations will aid the increase of the store's earnings and also help improve customer satisfaction.
